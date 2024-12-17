@@ -6,13 +6,13 @@
 <a><img src='https://i.imgur.com/HO8U7W1.jpeg'/>
 
 <img align="center" height="auto"
-src="https://cardivo.vercel.app/api?name=MALVIN%20MD&description=🥂THE%20WORLD%20BEST%20WHATSAPP%20BOT%★%20CREATED%20BY%20MALVIN%20KING♥️&image=https://files.catbox.moe/20y1gs.jpg?v=4&backgroundColor=%23ecf0f1&github=kingmalvn&pattern=leaf&colorPattern=%23eaeaea"/>
+src="https://cardivo.vercel.app/api?name=NARUTO%20MD&description=🥂THE%20WORLD%20BEST%20WHATSAPP%20BOT%★%20CREATED%20BY%20DESTINY%20TECH♥️&image=https://i.imgur.com/HO8U7W1.jpeg?v=4&backgroundColor=%23ecf0f1&github=kingmalvn&pattern=leaf&colorPattern=%23eaeaea"/>
 
 <br>
 
    </p>
 <p align="center">
-<a href="https://github.com/kingmalvn"><img title="Author" src="https://img.shields.io/badge/kingmalvn-black?style=for-the-badge&logo=Github"></a> <a href="https://youtube.com/@malvintech2"><img title="Author" src="https://img.shields.io/badge/YOUTUBE SUBSCRIBE-red?style=for-the-badge&logo=youtube"></a> <a href="https://wa.me/263714757857"><img title="Author" src="https://img.shields.io/badge/Contact Me-black?style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/kingmalvn"><img title="Author" src="https://img.shields.io/badge/Dest1ny-7-black?style=for-the-badge&logo=Github"></a> <a href="https://youtube.com/@malvintech2"><img title="Author" src="https://img.shields.io/badge/YOUTUBE SUBSCRIBE-red?style=for-the-badge&logo=youtube"></a> <a href="https://wa.me/263714757857"><img title="Author" src="https://img.shields.io/badge/Contact Me-black?style=for-the-badge&logo=whatsapp"></a>
 <p/> 
 
  <p align="center">
@@ -36,7 +36,7 @@ src="https://cardivo.vercel.app/api?name=MALVIN%20MD&description=🥂THE%20WORLD
 
 
 <p align="left">
-<a href='https://github.com/kingmalvn/MALVIN-MD/fork' target="_blank"><img alt='Fork Repo' src='https://img.shields.io/badge/-Fork Repo-blue?style=for-the-badge&logo=github&logoColor=white'/< width=115 height=28/p></a>
+<a href='https://github.com/Dest1ny-7/NARUTO-MD/fork' target="_blank"><img alt='Fork Repo' src='https://img.shields.io/badge/-Fork Repo-blue?style=for-the-badge&logo=github&logoColor=white'/< width=115 height=28/p></a>
    
 **2. Second Step**
 
