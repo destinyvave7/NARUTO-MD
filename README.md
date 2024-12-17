@@ -1,7 +1,7 @@
-<a><img src='https://i.imgur.com/LyHic3i.gif'/>
+<a><img src='https://i.imgur.com/HO8U7W1.jpeg'/>
 
 </p> <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rubik+Dirt&size=65&pause=1000&color=F72C3F&background=FF20A500&center=true&vCenter=true&width=1000&height=150&lines=MALVIN+MD;MADE+BY+MALVIN+KING" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rubik+Dirt&size=65&pause=1000&color=F72C3F&background=FF20A500&center=true&vCenter=true&width=1000&height=150&lines=NARUTO+MD;MADE+BY+DESTINY+TECH" alt="Typing SVG" /></a>
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/>
 
