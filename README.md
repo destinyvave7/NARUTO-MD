@@ -12,7 +12,7 @@ src="https://cardivo.vercel.app/api?name=NARUTO%20MD&description=🥂THE%20WORLD
 
    </p>
 <p align="center">
-<a href="https://github.com/kingmalvn"><img title="Author" src="https://img.shields.io/badge/Dest1ny-7-black?style=for-the-badge&logo=Github"></a> <a href="https://youtube.com/@malvintech2"><img title="Author" src="https://img.shields.io/badge/YOUTUBE SUBSCRIBE-red?style=for-the-badge&logo=youtube"></a> <a href="https://wa.me/263714757857"><img title="Author" src="https://img.shields.io/badge/Contact Me-black?style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/Dest1ny-7"><img title="Author" src="https://i.imgur.com/HO8U7W1.jpeg-black?style=for-the-badge&logo=Github"></a> <a href="https://youtube.com/@malvintech2"><img title="Author" src="https://img.shields.io/badge/YOUTUBE SUBSCRIBE-red?style=for-the-badge&logo=youtube"></a> <a href="https://wa.me/2349073081822"><img title="Author" src="https://img.shields.io/badge/Contact Me-black?style=for-the-badge&logo=whatsapp"></a>
 <p/> 
 
  <p align="center">
